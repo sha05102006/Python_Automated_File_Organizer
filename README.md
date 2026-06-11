@@ -22,5 +22,15 @@ This project helps users simplify a monotonous task such as file organiztion and
 
 https://github.com/user-attachments/assets/9f262dd5-d2ac-4286-93ce-5e11ca7834f9
 
+## Output (Images):
+Before running the script:
+<img width="840" height="741" alt="Screenshot 2026-06-12 013022" src="https://github.com/user-attachments/assets/2c73ba38-83ef-4f5f-83a2-aa10d11a2542" />
 
+After running the script:
+<img width="843" height="742" alt="Screenshot 2026-06-12 012842" src="https://github.com/user-attachments/assets/03f96c21-ce42-4f63-b498-2dc297b0ccae" />
 
+## Issues:
+* Over utilisation of CPU resources
+* Unavailability of set times for program execution (Example: script executed as a shartup program to avoid endless execution and resource usage.)
+* Unable to handle files that is being used by another programs.
+* Cannot handle multiple extensions in a single file.
