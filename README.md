@@ -11,3 +11,16 @@ This project is created to automate the process of organizing the file in our sy
 * The monitoring is scheduled to take place in an interval of 5 seconds to avoid infinite iteration.
 
 This project helps users simplify a monotonous task such as file organiztion and improves efficiency of an individual.
+
+## Modules used:
+* https://docs.python.org/3/library/os.html
+* https://docs.python.org/3/library/shutil.html
+* https://docs.python.org/3/library/time.html
+
+## Output (Video):
+
+
+https://github.com/user-attachments/assets/9f262dd5-d2ac-4286-93ce-5e11ca7834f9
+
+
+
