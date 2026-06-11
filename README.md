@@ -1,6 +1,11 @@
+# Intern Details:
+* Intern ID: CITS1691
+* Full Name: Shashath.B.S
+* No.Of Weeks: 4 Weeks
+
 # Automated File Organizer:
 
-A project to automating the process of organizing files into specific folders. These folders are created to store files of same type.
+The scope of this project is to automating the process of organizing files into specific folders. These folders are created to store files of same type.
 
 ## Intoduction:
 
